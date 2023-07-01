@@ -21,6 +21,9 @@ export default function Weather() {
         <input type="submit" value="Search" />
       </form>
       <h2>{written}</h2>
-    </div>
+    <p>
+    <a href="https://github.com/Li1412/weather-react" target="_blank" rel="noreferrer">Open-source </a>{" "}coded by Lindelwa Tshuku
+      </p>
+      </div>
   );
 }
